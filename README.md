@@ -1,5 +1,5 @@
 
-# Detailed analysis of AirBNB in New York City - Tableau Project
+# Detailed Analysis of AirBNB in New York City
 
 In this Tableau Data Analysis project, I have done an indepth analysis of AirBNB in New York City to provide deep insights of various aspects of AirBNB bookings in New York City. The project explores several dimensions of the AirBNB data such as prices per room, the most popular neighbourhoods for bookings, and other important information.
 
