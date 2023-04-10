@@ -11,8 +11,9 @@ Overall, the project provides a comprehensive overview of the AirBNB data in New
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/90929264/230916321-a8fba83a-433b-43e9-8d7f-c3e158e882d7.png)
- My Dashboard for the Project
+![image](https://user-images.githubusercontent.com/90929264/230917372-deccad85-fac5-454b-9d8d-240b40d7b5bd.png)
+My Dashboard for the Project
+
 ## Live Link
 
 You can see my Dashboard live on the link below: 
